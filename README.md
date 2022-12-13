@@ -23,6 +23,6 @@ Speciality Test Algostudio Tahap 2
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/fandi-adhitya/Algostudio-speciality-test-tahap-2/master/screenshots/4.jpg" width=270></td>
-    <td><img src="https://raw.githubusercontent.com/fandi-adhitya/Algostudio-speciality-test-tahap-2/master/screenshots/5.jpg)" width=270</td>
+    <td><img src="https://raw.githubusercontent.com/fandi-adhitya/Algostudio-speciality-test-tahap-2/master/screenshots/5.jpg" width=270</td>
   </tr>
  </table>
